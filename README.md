@@ -81,21 +81,15 @@ Saved notes are stored in `notes.json` in the project root.
 ## 💡 Notes & Tips
 
 - If `notes.json` does not exist or is empty, it will be created/initialized automatically.
-- Keep your API key secret and do not commit `.env` to version control.
 - The app uses `gemini-flash-latest` by default; you can change this in `core.py` if desired.
 
 ---
 
-## 🙌 Contributing
+## Next Steps
 
-Contributions are welcome — open issues or PRs for enhancements or bug fixes.
+- Modern GUI: Transitioning to a desktop interface using CustomTkinter.
+- Search & Filter: Find specific notes by keyword or date.
 
----
+## Project Status
 
-## 📄 License
-
-This project does not include a license file. Add one (e.g., MIT) if you plan to publish or share the project.
-
----
-
-If you'd like, I can also add examples, tests, or a basic CI workflow—tell me what you'd prefer next! ✅
+Active Development
