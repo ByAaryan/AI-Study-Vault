@@ -37,7 +37,7 @@ def gen_content():
   
     length = input("Enter the desired response length (short/medium/long): ")
     question = input("Enter your question: ")
-    query= f"Please provide a {length} answer to the following question: {question}"
+    query= f"Please provide a {length} answer to the following question: {question}.make it informative and don't add unnecessary follow-up questions."
 
 
     response = client.models.generate_content(
