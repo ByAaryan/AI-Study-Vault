@@ -85,11 +85,6 @@ Saved notes are stored in `notes.json` in the project root.
 
 ---
 
-## Next Steps
-
-- Modern GUI: Transitioning to a desktop interface using CustomTkinter.
-- Search & Filter: Find specific notes by keyword or date.
-
 ## Project Status
 
-Active Development
+Closer (Not Maintained)
